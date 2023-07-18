@@ -60,7 +60,7 @@ def redshiftDB():
     urll="data-engineer-cluster.cyhh5bfevlmn.us-east-1.redshift.amazonaws"
     data_base="data-engineer-database"
     user="mendietadaniel1994_coderhouse"
-    pwd= 'o4T3Iuw898'
+    pwd= 'xxxxxxx'
         
     try:
         conn = psycopg2.connect(
